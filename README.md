@@ -1,6 +1,9 @@
 # Credit Card Fraud Detection (PowerBI Dashboard)
 
 This project develops a dashboard using credit card transaction data to analyze fraud trends and implement strategies for mitigation.
+![Default - Copy (3)](https://github.com/user-attachments/assets/fc956583-5c0f-4ca3-a71f-8c392ad6a0b4)
+
+
 ## Dataset
 This project used the following dataset:
 
